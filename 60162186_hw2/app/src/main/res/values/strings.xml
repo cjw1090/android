@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">60162186_hw2</string>
+    <string name="rad1">강아지</string>
+    <string name="rad2">고양이</string>
+    <string name="rad3">토끼</string>
+    <string name="btn1">그림보기</string>
+    <string name="toa1">대화상자를 닫았습니다</string>
+</resources>
